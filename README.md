@@ -60,8 +60,10 @@ python adaptation_visda.py
 
 
 # References
+
 If you find the code useful for your research, please consider citing
-ICLR Conference Version:
+
+#### ICLR Conference Version:
 ```
 @article{wang2025silan,
   title={What Has Been Overlooked in Contrastive Source-Free Domain Adaptation: Leveraging Source-Informed Latent Augmentation within Neighborhood Context},
@@ -70,7 +72,7 @@ ICLR Conference Version:
   year={2025}
 }
 ```
-TMLR Journal Version:
+#### TMLR Journal Version:
 ```
 @article{wang2024silan,
   title={What Has Been Overlooked in Contrastive Source-Free Domain Adaptation: Leveraging Source-Informed Latent Augmentation within Neighborhood Context},
